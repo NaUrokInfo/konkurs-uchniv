@@ -1,0 +1,208 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.5.1/lottie.min.js
+File Name: D:\Downloaded Web Sites\naurok.com.ua\ajax\libs\bodymovin\5.5.1\lottie.min.js
+Content Type: application/javascript
+
+Uri: https://naurok.com.ua/assets/af03f6b16f606305d9cf827034cc8968/yii.activeForm.js
+File Name: D:\Downloaded Web Sites\naurok.com.ua\assets\af03f6b16f606305d9cf827034cc8968\yii.activeForm.js
+Content Type: application/javascript
+
+Uri: https://naurok.com.ua/assets/af03f6b16f606305d9cf827034cc8968/yii.js
+File Name: D:\Downloaded Web Sites\naurok.com.ua\assets\af03f6b16f606305d9cf827034cc8968\yii.js
+Content Type: application/javascript
+
+Uri: https://naurok.com.ua/assets/cb30fc59caa0617bdb70be372b05a914/jquery.js
+File Name: D:\Downloaded Web Sites\naurok.com.ua\assets\cb30fc59caa0617bdb70be372b05a914\jquery.js
+Content Type: application/javascript
+
+Uri: https://naurok.com.ua/assets/f0db75bd7fb3b61fd5c2b967f1a77e3e/css/bootstrap.css
+File Name: D:\Downloaded Web Sites\naurok.com.ua\assets\f0db75bd7fb3b61fd5c2b967f1a77e3e\css\bootstrap.css
+Content Type: text/css
+
+Uri: https://naurok.com.ua/assets/f0db75bd7fb3b61fd5c2b967f1a77e3e/js/bootstrap.js
+File Name: D:\Downloaded Web Sites\naurok.com.ua\assets\f0db75bd7fb3b61fd5c2b967f1a77e3e\js\bootstrap.js
+Content Type: application/javascript
+
+Uri: https://naurok.com.ua/css/latest.css?v13.16
+File Name: D:\Downloaded Web Sites\naurok.com.ua\css\latest.css
+Content Type: text/css
+
+Uri: https://naurok.com.ua/css/site.full.css?v1.37.11
+File Name: D:\Downloaded Web Sites\naurok.com.ua\css\site.full.css
+Content Type: text/css
+
+Uri: https://naurok.com.ua/favicon.ico
+File Name: D:\Downloaded Web Sites\naurok.com.ua\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://naurok.com.ua/img/facebook.svg
+File Name: D:\Downloaded Web Sites\naurok.com.ua\img\facebook.svg
+Content Type: image/svg+xml
+
+Uri: https://naurok.com.ua/img/footer/facebook-ico.svg
+File Name: D:\Downloaded Web Sites\naurok.com.ua\img\footer\facebook-ico.svg
+Content Type: image/svg+xml
+
+Uri: https://naurok.com.ua/img/footer/telegram-ico.svg
+File Name: D:\Downloaded Web Sites\naurok.com.ua\img\footer\telegram-ico.svg
+Content Type: image/svg+xml
+
+Uri: https://naurok.com.ua/img/footer/youtube-ico.svg
+File Name: D:\Downloaded Web Sites\naurok.com.ua\img\footer\youtube-ico.svg
+Content Type: image/svg+xml
+
+Uri: https://naurok.com.ua/img/logo4.png
+File Name: D:\Downloaded Web Sites\naurok.com.ua\img\logo4.png
+Content Type: image/png
+
+Uri: https://naurok.com.ua/img/olymp6/feature-1.svg
+File Name: D:\Downloaded Web Sites\naurok.com.ua\img\olymp6\feature-1.svg
+Content Type: image/svg+xml
+
+Uri: https://naurok.com.ua/img/olymp6/feature-2.svg
+File Name: D:\Downloaded Web Sites\naurok.com.ua\img\olymp6\feature-2.svg
+Content Type: image/svg+xml
+
+Uri: https://naurok.com.ua/img/olymp6/feature-3.svg
+File Name: D:\Downloaded Web Sites\naurok.com.ua\img\olymp6\feature-3.svg
+Content Type: image/svg+xml
+
+Uri: https://naurok.com.ua/img/olymp6/img-list-1.svg
+File Name: D:\Downloaded Web Sites\naurok.com.ua\img\olymp6\img-list-1.svg
+Content Type: image/svg+xml
+
+Uri: https://naurok.com.ua/img/olymp6/img-list-10.svg
+File Name: D:\Downloaded Web Sites\naurok.com.ua\img\olymp6\img-list-10.svg
+Content Type: image/svg+xml
+
+Uri: https://naurok.com.ua/img/olymp6/img-list-11.svg
+File Name: D:\Downloaded Web Sites\naurok.com.ua\img\olymp6\img-list-11.svg
+Content Type: image/svg+xml
+
+Uri: https://naurok.com.ua/img/olymp6/img-list-12.svg
+File Name: D:\Downloaded Web Sites\naurok.com.ua\img\olymp6\img-list-12.svg
+Content Type: image/svg+xml
+
+Uri: https://naurok.com.ua/img/olymp6/img-list-13.svg
+File Name: D:\Downloaded Web Sites\naurok.com.ua\img\olymp6\img-list-13.svg
+Content Type: image/svg+xml
+
+Uri: https://naurok.com.ua/img/olymp6/img-list-14.svg
+File Name: D:\Downloaded Web Sites\naurok.com.ua\img\olymp6\img-list-14.svg
+Content Type: image/svg+xml
+
+Uri: https://naurok.com.ua/img/olymp6/img-list-15.svg
+File Name: D:\Downloaded Web Sites\naurok.com.ua\img\olymp6\img-list-15.svg
+Content Type: image/svg+xml
+
+Uri: https://naurok.com.ua/img/olymp6/img-list-16.svg
+File Name: D:\Downloaded Web Sites\naurok.com.ua\img\olymp6\img-list-16.svg
+Content Type: image/svg+xml
+
+Uri: https://naurok.com.ua/img/olymp6/img-list-17.svg
+File Name: D:\Downloaded Web Sites\naurok.com.ua\img\olymp6\img-list-17.svg
+Content Type: image/svg+xml
+
+Uri: https://naurok.com.ua/img/olymp6/img-list-2.svg
+File Name: D:\Downloaded Web Sites\naurok.com.ua\img\olymp6\img-list-2.svg
+Content Type: image/svg+xml
+
+Uri: https://naurok.com.ua/img/olymp6/img-list-3.svg
+File Name: D:\Downloaded Web Sites\naurok.com.ua\img\olymp6\img-list-3.svg
+Content Type: image/svg+xml
+
+Uri: https://naurok.com.ua/img/olymp6/img-list-4.svg
+File Name: D:\Downloaded Web Sites\naurok.com.ua\img\olymp6\img-list-4.svg
+Content Type: image/svg+xml
+
+Uri: https://naurok.com.ua/img/olymp6/img-list-5.svg
+File Name: D:\Downloaded Web Sites\naurok.com.ua\img\olymp6\img-list-5.svg
+Content Type: image/svg+xml
+
+Uri: https://naurok.com.ua/img/olymp6/img-list-6.svg
+File Name: D:\Downloaded Web Sites\naurok.com.ua\img\olymp6\img-list-6.svg
+Content Type: image/svg+xml
+
+Uri: https://naurok.com.ua/img/olymp6/img-list-7.svg
+File Name: D:\Downloaded Web Sites\naurok.com.ua\img\olymp6\img-list-7.svg
+Content Type: image/svg+xml
+
+Uri: https://naurok.com.ua/img/olymp6/img-list-8.svg
+File Name: D:\Downloaded Web Sites\naurok.com.ua\img\olymp6\img-list-8.svg
+Content Type: image/svg+xml
+
+Uri: https://naurok.com.ua/img/olymp6/img-list-9.svg
+File Name: D:\Downloaded Web Sites\naurok.com.ua\img\olymp6\img-list-9.svg
+Content Type: image/svg+xml
+
+Uri: https://naurok.com.ua/img/olymp8/illustration-2.svg?2
+File Name: D:\Downloaded Web Sites\naurok.com.ua\img\olymp8\illustration-2.svg
+Content Type: image/svg+xml
+
+Uri: https://naurok.com.ua/js/animation.js?2
+File Name: D:\Downloaded Web Sites\naurok.com.ua\js\animation.js
+Content Type: application/javascript
+
+Uri: https://naurok.com.ua/js/app_core.js?4.1
+File Name: D:\Downloaded Web Sites\naurok.com.ua\js\app_core.js
+Content Type: application/javascript
+
+Uri: https://naurok.com.ua/js/app_olymp.js?32
+File Name: D:\Downloaded Web Sites\naurok.com.ua\js\app_olymp.js
+Content Type: application/javascript
+
+Uri: https://naurok.com.ua/js/script.full.js?v1.2.5
+File Name: D:\Downloaded Web Sites\naurok.com.ua\js\script.full.js
+Content Type: application/javascript
+
+Uri: https://naurok.com.ua/manifest_push.json
+File Name: D:\Downloaded Web Sites\naurok.com.ua\manifest_push.json
+Content Type: application/json
+
+Uri: https://naurok.com.ua/olimpiada
+File Name: D:\Downloaded Web Sites\naurok.com.ua\olimpiada.html
+Content Type: text/html
+
+Uri: https://naurok.com.ua/uploads/event/106/icon_1587733884_deutsche.png
+File Name: D:\Downloaded Web Sites\naurok.com.ua\uploads\event\106\icon_1587733884_deutsche.png
+Content Type: image/png
+
+Uri: https://naurok.com.ua/uploads/event/185/icon_1618226453_astronomy9.svg
+File Name: D:\Downloaded Web Sites\naurok.com.ua\uploads\event\185\icon_1618226453_astronomy9.svg
+Content Type: image/svg+xml
+
+Uri: https://naurok.com.ua/uploads/event/468/icon_1694077617_nature-19.png
+File Name: D:\Downloaded Web Sites\naurok.com.ua\uploads\event\468\icon_1694077617_nature-19.png
+Content Type: image/png
+
+Uri: https://naurok.com.ua/uploads/event/469/icon_1694078167_military-19.png
+File Name: D:\Downloaded Web Sites\naurok.com.ua\uploads\event\469\icon_1694078167_military-19.png
+Content Type: image/png
+
+Uri: https://naurok.com.ua/uploads/event/99/icon_1587733976_art.png
+File Name: D:\Downloaded Web Sites\naurok.com.ua\uploads\event\99\icon_1587733976_art.png
+Content Type: image/png
+
+Uri: https://naurok.com.ua/uploads/olymp/19/top_json.svg
+File Name: D:\Downloaded Web Sites\naurok.com.ua\uploads\olymp\19\top_json.svg
+Content Type: image/svg+xml
+
+Uri: https://www.facebook.com/tr?id=186487121900322&ev=PageView&noscript=1
+File Name: D:\Downloaded Web Sites\naurok.com.ua\tr-1
+Content Type: text/plain
+
+Uri: https://www.facebook.com/tr?id=2848658688748262&ev=PageView&noscript=1
+File Name: D:\Downloaded Web Sites\naurok.com.ua\tr
+Content Type: text/plain
+
+Uri: https://www.google.com/recaptcha/api.js?render=6Lfj5vQUAAAAAOjsdAMk32BeA8J-E7c86_GWFvco
+File Name: D:\Downloaded Web Sites\naurok.com.ua\recaptcha\api.js
+Content Type: text/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-108352460-1
+File Name: D:\Downloaded Web Sites\naurok.com.ua\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.gstatic.com/firebasejs/5.11.0/firebase.js
+File Name: D:\Downloaded Web Sites\naurok.com.ua\firebasejs\5.11.0\firebase.js
+Content Type: text/javascript
+

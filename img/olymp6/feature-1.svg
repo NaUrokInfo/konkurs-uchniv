@@ -1,0 +1,16 @@
+<svg id="icon_1" data-name="icon 1" xmlns="http://www.w3.org/2000/svg" width="135.727" height="135.727" viewBox="0 0 135.727 135.727">
+  <ellipse id="Ellipse_184" data-name="Ellipse 184" cx="67.864" cy="67.864" rx="67.864" ry="67.864" fill="#e5eeed"/>
+  <g id="Group_490" data-name="Group 490" transform="translate(6.912 26.971)">
+    <g id="Group_488" data-name="Group 488" transform="translate(5.798)">
+      <path id="Rectangle_376" data-name="Rectangle 376" d="M5.468,0H104.84a5.468,5.468,0,0,1,5.468,5.468V75.294a4.92,4.92,0,0,1-4.92,4.92H4.92A4.92,4.92,0,0,1,0,75.294V5.468A5.468,5.468,0,0,1,5.468,0Z" fill="#badbe1"/>
+    </g>
+    <g id="Group_489" data-name="Group 489" transform="translate(13.294 7.938)">
+      <path id="Path_507" data-name="Path 507" d="M129.34,837.362H37.5a1.74,1.74,0,0,1-1.74-1.742l.123-63.539a1.74,1.74,0,0,1,1.739-1.736H129.34a1.739,1.739,0,0,1,1.739,1.74v63.538A1.739,1.739,0,0,1,129.34,837.362Z" transform="translate(-35.763 -770.345)" fill="#fdf5d5"/>
+    </g>
+    <path id="Rectangle_377" data-name="Rectangle 377" d="M3,0H97.511a3,3,0,0,1,3,3v.83a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V3A3,3,0,0,1,3,0Z" transform="translate(10.698 68.813)" fill="#fffae8"/>
+    <path id="Rectangle_378" data-name="Rectangle 378" d="M1.709,0H120.2A1.709,1.709,0,0,1,121.9,1.709V3.8a5.852,5.852,0,0,1-5.852,5.852H5.852A5.852,5.852,0,0,1,0,3.8V1.709A1.709,1.709,0,0,1,1.709,0Z" transform="translate(0 72.131)" fill="#9db9bf"/>
+    <path id="Rectangle_379" data-name="Rectangle 379" d="M2.17,0H93.12a2.17,2.17,0,0,1,2.17,2.17V7a0,0,0,0,1,0,0H0A0,0,0,0,1,0,7V2.17A2.17,2.17,0,0,1,2.17,0Z" transform="translate(13.307 7.677)" fill="#fffae8"/>
+    <rect id="Rectangle_380" data-name="Rectangle 380" width="53.117" height="15.211" rx="1.915" transform="translate(33.911 46.081)" fill="#ffcd72"/>
+    <rect id="Rectangle_381" data-name="Rectangle 381" width="53.117" height="18.108" rx="1.915" transform="translate(33.911 21.696)" fill="#fff"/>
+  </g>
+</svg>
